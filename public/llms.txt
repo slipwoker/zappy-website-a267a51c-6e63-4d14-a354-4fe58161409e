@@ -1,0 +1,81 @@
+# D3VIEW — Generative Engine Optimization Map
+
+> D3VIEW is an engineering software and data analytics platform focused on CAE (Computer-Aided Engineering) and simulation solutions. The brand serves engineering professionals and organizations looking to analyze, visualize, and manage simulation data. The company has an established web presence at d3view.com that serves as the reference point for the new site rebuild.
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Transform how you analyze, visualize, and manage simulation data with D3VIEW&#39;s advanced CAE platform. Built for engineers who demand faster insights. Start optimizing today.
+
+### Platform
+https://example.com/platform
+Explore the D3VIEW platform engineered to unify CAE data, streamline workflows, and accelerate decision-making. See how our tools turn complex datasets into actionable engineering intelligence.
+
+### Solutions
+https://example.com/solutions
+Discover D3VIEW&#39;s specialized solutions for automotive, aerospace, and industrial simulation. From finite element analysis to data collection, we solve your toughest engineering challenges.
+
+### Contact
+https://example.com/contact
+Ready to elevate your CAE workflow? Connect with D3VIEW&#39;s team to discuss your engineering data challenges. Let&#39;s build a smarter simulation strategy together.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/platform
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About D3VIEW
+D3VIEW is an engineering software and data analytics platform focused on CAE (Computer-Aided Engineering) and simulation solutions. The brand serves engineering professionals and organizations looking to analyze, visualize, and manage simulation data. The company has an established web presence at d3view.com that serves as the reference point for the new site rebuild.
+
+## Target Audience
+- Aerospace Engineers
+- Automotive Design Teams
+- Civil & Structural Engineers
+- University Research Labs
+- Industrial R&D Teams
+- Health care
+
+## Industry
+Engineering Software / CAE Solutions
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
