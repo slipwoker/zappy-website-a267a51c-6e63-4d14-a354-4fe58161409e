@@ -7,33 +7,33 @@
 ## Pages
 
 ### Home
-https://example.com
+https://d3view.zappy5.app
 Transform how you analyze, visualize, and manage simulation data with D3VIEW&#39;s advanced CAE platform. Built for engineers who demand faster insights. Start optimizing today.
 
 ### Platform
-https://example.com/platform
+https://d3view.zappy5.app/platform
 Explore the D3VIEW platform engineered to unify CAE data, streamline workflows, and accelerate decision-making. See how our tools turn complex datasets into actionable engineering intelligence.
 
 ### Solutions
-https://example.com/solutions
+https://d3view.zappy5.app/solutions
 Discover D3VIEW&#39;s specialized solutions for automotive, aerospace, and industrial simulation. From finite element analysis to data collection, we solve your toughest engineering challenges.
 
 ### Contact
-https://example.com/contact
+https://d3view.zappy5.app/contact
 Ready to elevate your CAE workflow? Connect with D3VIEW&#39;s team to discuss your engineering data challenges. Let&#39;s build a smarter simulation strategy together.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://d3view.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://d3view.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://d3view.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -44,8 +44,8 @@ Information about WCAG compliance and accessibility features.
 - Address: 1130 Tienken Ct., Suite 102, Rochester Hills, MI, 48306, United States
 
 ### Contact form
-- URL: https://example.com/platform
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://d3view.zappy5.app/platform
+- Endpoint: https://d3view.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -77,6 +77,6 @@ Engineering Software / CAE Solutions
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://d3view.zappy5.app/sitemap.xml
+- Robots: https://d3view.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://d3view.zappy5.app/llms-full.txt
