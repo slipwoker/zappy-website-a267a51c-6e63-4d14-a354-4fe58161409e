@@ -40,7 +40,8 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: info@d3view.com
+- Address: 1130 Tienken Ct., Suite 102, Rochester Hills, MI, 48306, United States
 
 ### Contact form
 - URL: https://example.com/platform
